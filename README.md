@@ -23,7 +23,7 @@ AEGIS is an end-to-end IoT-enabled smart door locking system. It allows users to
 ## 📱 App Screenshots & Demo Video
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_POST_URL_HERE](https://www.linkedin.com/posts/muhammad-ibrahim0981122_iot-flutter-esp32-activity-7488246161456152576-6dcU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi10G8BqTLeCSfjj37EtJ1zmDFp51ti57M)" target="_blank">
+  <a href="https://www.linkedin.com/posts/muhammad-ibrahim0981122_iot-flutter-esp32-activity-7488246161456152576-6dcU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFi10G8BqTLeCSfjj37EtJ1zmDFp51ti57M" target="_blank">
     <img src="https://img.shields.io/badge/Watch_Working_Demo-LinkedIn_Video-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Watch Demo on LinkedIn" />
   </a>
 </p>
