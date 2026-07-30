@@ -15,7 +15,7 @@ AEGIS is an end-to-end IoT-enabled smart door locking system. It allows users to
 * **Mobile App Framework:** Flutter (Dart)
 * **Backend & Cloud Database:** Firebase Realtime Database
 * **Microcontroller Firmware:** C / C++ (Arduino Framework for ESP32)
-* **Actuation Hardware:** PWM-controlled Servo Motor (SG90 / MG996R)
+* **Actuation Hardware:** PWM-controlled Servo Motor (SG90 / MG996R) according to your requirement.
 * **Version Control:** Git & GitHub
 
 ---
