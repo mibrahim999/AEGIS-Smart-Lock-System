@@ -6,7 +6,7 @@
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-AEGIS is an end-to-end IoT-enabled smart door locking system. It allows users to manage and monitor physical door lock status remotely from anywhere in the world using a custom Flutter mobile application, Firebase Realtime Database, and an ESP32 microcontroller.
+AEGIS is an end-to-end IoT-enabled smart door locking system. It allows users to manage and monitor physical door lock status remotely from anywhere in the world using a custom Flutter mobile application, Firebase Realtime Database, and an ESP32 microcontroller.............
 
 ---
 
