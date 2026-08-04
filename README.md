@@ -10,7 +10,7 @@ AEGIS is an end-to-end IoT-enabled smart door locking system. It allows users to
 
 ---
 
-## 🛠️ Tech Stack & Technologies Used
+## 🛠️ Tech Stack & Technologies Used.....
 
 * **Mobile App Framework:** Flutter (Dart)
 * **Backend & Cloud Database:** Firebase Realtime Database
